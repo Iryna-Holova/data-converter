@@ -38,6 +38,20 @@ Example usage:
 python main.py
 ```
 
+Example output:
+
+```converted_data.csv
+Date,Distance,Reading
+2024-01-01,135ft,10°C
+2024-01-01,151ft,21°C
+2024-01-01,49ft,15°C
+2024-01-01,100ft,17°C
+2024-01-01,102ft,15°C
+2024-01-01,69ft,17°C
+2024-01-01,33ft,15°C
+2024-01-01,10ft,16°C
+```
+
 ## File Structure
 
 - `main.py`: Main script to convert data.
