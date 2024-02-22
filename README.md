@@ -40,8 +40,8 @@ python main.py
 
 Example output:
 
-```csv
-cat converted_data.csv
+```csv-path
+converted_data.csv
 ```
 
 ## File Structure
