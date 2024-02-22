@@ -41,7 +41,7 @@ python main.py
 Example output:
 
 ```csv
-[converted_data.csv]
+converted_data.csv
 ```
 
 ## File Structure
