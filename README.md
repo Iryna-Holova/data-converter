@@ -40,7 +40,7 @@ python main.py
 
 Example output:
 
-```csv-path
+```csv
 [converted_data.csv]
 ```
 
